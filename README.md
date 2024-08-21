@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praaathik an enthusiastic web developer who has just started on this journey.
 - 👀 I’m interested in Software Development  
-- 🌱 I’m currently learning React JS and looking to move on to NODEJS and EXPRESSS very soon.
+- 🌱 I’m currently learning React JS and looking to move on to NODEJS and EXPRESSJS  very soon.
 - 📫 How to reach me :- email - prathikku99@gmail.com
 
 <!---
